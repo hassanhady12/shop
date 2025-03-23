@@ -19,5 +19,5 @@
 ### 2. استنساخ المشروع
 قم بتنزيل المشروع من GitHub باستخدام:
 ```sh
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/hassanhady12/shop.git
 cd REPOSITORY
